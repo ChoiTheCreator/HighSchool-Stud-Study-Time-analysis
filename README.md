@@ -50,8 +50,7 @@ H1 : 세 고등학교 학생들의 평균 주말 학습 시간이 같지 않�
 
 ### Boxplot
 
-<img width="490" alt="스크린샷 2024-11-26 오후 2 15 46" src="https://github.com/user-attachments/assets/5fdd480f-5a2a-4d43-86dc>
-
+<img width="518" alt="스크린샷 2024-11-26 오후 2 18 03" src="https://github.com/user-attachments/assets/e0fb0b16-93bb-490c-b999-00939462e690">
 
 # Variance testing.
 
@@ -74,7 +73,7 @@ AOV 검정한 result를 토대로, 좀 더 디테일한 분석을 실시한다.
 
 ## result
 
-<img width="493" alt="스크린샷 2024-11-26 오후 2 16 01" src="https://github.com/user-attachments/assets/cb8afcca-cdc8-4079-8574-9db0>
+<img width="515" alt="스크린샷 2024-11-26 오후 2 18 15" src="https://github.com/user-attachments/assets/f48a7ee3-75ca-4b77-ab3b-c1be76504c33">
 ### F-value & P-value
 
 F-value는 1394로 엄청나게 큰 값이 나왔으며, P-value는 2e-16로 0.05보다 한참 작은 값이 나왔다.
