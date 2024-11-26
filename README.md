@@ -32,13 +32,13 @@ H1 : 세 고등학교 학생들의 평균 주말 학습 시간이 같지 않�
 
 ### Structure
 
-![스크린샷 2024-06-03 오후 5.25.15.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c266a0fa-c00e-4951-b390-7131c1abac72/5764081f-c9f7-42a8-9c31-5b0459ecdd7a/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2024-06-03_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_5.25.15.png)
+<img width="491" alt="스크린샷 2024-11-26 오후 2 15 22" src="https://github.com/user-attachments/assets/ecccab99-29f4-4f57-9fa4-23e2eaaf6474">
 
 # ANOVA analysis
 
 ### 정규성 검사
 
-![스크린샷 2024-06-03 오후 5.28.32.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c266a0fa-c00e-4951-b390-7131c1abac72/03e61585-b2ac-4c89-bf06-bd9b23770a47/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2024-06-03_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_5.28.32.png)
+<img width="490" alt="스크린샷 2024-11-26 오후 2 15 30" src="https://github.com/user-attachments/assets/0ab16a14-7482-4f79-ba05-5b6726b93432">
 
 → 세 고등학교의 shapiro-wilk 검사를 실시했고 , 세개의 검사 모두 p-value > 0.05
 
@@ -46,11 +46,12 @@ H1 : 세 고등학교 학생들의 평균 주말 학습 시간이 같지 않�
 
 ### 기술 통계
 
-![스크린샷 2024-06-03 오후 5.44.48.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c266a0fa-c00e-4951-b390-7131c1abac72/f09a0abb-3c52-49db-a650-d78d15e42562/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2024-06-03_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_5.44.48.png)
+<img width="489" alt="스크린샷 2024-11-26 오후 2 15 37" src="https://github.com/user-attachments/assets/9e202f20-f709-41d1-8df4-97b635f605ce">
 
 ### Boxplot
 
-![스크린샷 2024-06-03 오후 5.47.54.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c266a0fa-c00e-4951-b390-7131c1abac72/730356cc-68aa-49fd-8722-1d0ee4624e51/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2024-06-03_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_5.47.54.png)
+<img width="490" alt="스크린샷 2024-11-26 오후 2 15 46" src="https://github.com/user-attachments/assets/5fdd480f-5a2a-4d43-86dc>
+
 
 # Variance testing.
 
@@ -66,15 +67,14 @@ AOV 검정한 result를 토대로, 좀 더 디테일한 분석을 실시한다.
 → 결론적으로 이 데이터는 등분산성을 만족한다. 하지만 이상치가 상당히 많다. 이는 신목고의 평균시간이 다른 고등학교보다 유의미하게 높다는것을 증명한다.
 
 허나 세가지 모든 고등학교 모두 정규분포를 따른다는 점 또한 중요하다.
-
-![스크린샷 2024-06-03 오후 5.59.10.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c266a0fa-c00e-4951-b390-7131c1abac72/ac4d146b-2cd7-49cb-99f3-f4a9d5e1e67a/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2024-06-03_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_5.59.10.png)
+<img width="527" alt="스크린샷 2024-11-26 오후 2 15 53" src="https://github.com/user-attachments/assets/4d44c859-934c-4fa8-9933-d021a7d65ac3">
+-f090e51638d5">
 
 # Conclusion.
 
 ## result
 
-![스크린샷 2024-06-03 오후 5.50.37.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c266a0fa-c00e-4951-b390-7131c1abac72/807ff211-9e7f-48de-a5f6-51323ecf1df3/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2024-06-03_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_5.50.37.png)
-
+<img width="493" alt="스크린샷 2024-11-26 오후 2 16 01" src="https://github.com/user-attachments/assets/cb8afcca-cdc8-4079-8574-9db0>
 ### F-value & P-value
 
 F-value는 1394로 엄청나게 큰 값이 나왔으며, P-value는 2e-16로 0.05보다 한참 작은 값이 나왔다.
@@ -91,7 +91,8 @@ F-value는 1394로 엄청나게 큰 값이 나왔으며, P-value는 2e-16로 0.0
 
 Tukey를 활용하여 평균이 달라지게 된(대립가설을 채택하게 된) 원인을 파악한다.
 
-![스크린샷 2024-06-03 오후 6.17.05.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c266a0fa-c00e-4951-b390-7131c1abac72/8172af23-d556-4f8f-b99b-f25768a550fb/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2024-06-03_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_6.17.05.png)
+<img width="497" alt="스크린샷 2024-11-26 오후 2 16 11" src="https://github.com/user-attachments/assets/d8f6d40d-23e2-44fc-b59b-cfcae3afe3c5">
+dbdf6671">
 
 ### 영일고 vs 강서고
 
